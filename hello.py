@@ -1,3 +1,1 @@
-abc
-xyz
-3rd
+print("Hellloooo master")
